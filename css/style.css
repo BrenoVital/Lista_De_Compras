@@ -1,0 +1,11 @@
+.navbar-header a{
+  color: white;
+  font-size: 30px;
+}
+
+
+/* if (valor === "") {
+  erros += 'Preencha o campo de valores!\n';
+} else if (valor != (valor)) {
+  erros += 'O campo de valores deve possuir números!';
+} */
